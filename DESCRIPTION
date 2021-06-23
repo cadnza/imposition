@@ -1,0 +1,10 @@
+Package: imposition
+Type: Package
+Title: Bookbinding for R
+Version: 1.0.0
+Author: Jon Dayley
+Maintainer: Jon Dayley <jonathandayley@gmail.com>
+Description: Takes care of the tedious calculations involved with the imposition process in bookbinding.
+License: CC0
+Encoding: UTF-8
+LazyData: true
